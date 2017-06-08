@@ -8,6 +8,6 @@ The important references for this practice are:
 * [NetworkX](http://networkx.readthedocs.io/en/networkx-1.11/) the graph library you'll be using.
 * [Plotly](https://plot.ly/python/) the plotting library you'll be using ([full api reference](https://plot.ly/python/reference/)).
 
-Also remember to answer the questions about the combined network in the `SUBMISSION.md` file!
 
-_Based on an assignment by Jean Mark Gawron._ 
+
+_Based on an assignment by Joel Ross and Jean Mark Gawron._ 
